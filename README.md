@@ -1,4 +1,4 @@
-# Word Generator for Keyboard shortcuts
+# Word Generator for Keyboard shortcut
 
 Generates a random adjective_noun word into the clipboard and pastes it into whatever you have active.
 
